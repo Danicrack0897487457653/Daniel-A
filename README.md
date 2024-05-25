@@ -1,0 +1,2 @@
+El proyecto "Representación en Byte" es una aplicación de línea de comandos que permite a los usuarios realizar operaciones relacionadas con la representación en byte de caracteres y palabras, así como la conversión de representaciones en byte a caracteres ASCII. Esta herramienta es útil para comprender cómo se almacenan y se representan los datos en formato binario, así como para realizar operaciones básicas de conversión entre caracteres y sus representaciones en byte.
+Daniel Amelines Pacheco 
