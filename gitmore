@@ -1,0 +1,13 @@
+# Archivos generados por el entorno de desarrollo o por el sistema
+__pycache__/
+*.pyc
+
+# Archivos generados durante la ejecución del script
+*.log
+
+# Directorio de construcción o archivos generados por el compilador/interprete
+build/
+dist/
+
+# Archivos de configuración local o sensibles
+config.ini
